@@ -101,7 +101,7 @@ print('Hello, world!')
 
 学编程中最重要的活动就是 “阅读官方文档”。学 Python 更是如此。Python 有很多非常优秀的地方，其中一个令人无法忽视的优点就是它的文档完善程度极好。它甚至有专门的文档生成工具，[Sphinx](http://www.sphinx-doc.org/en/master/)：
 
-> Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license.
+> Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license
 >
 > It was originally created for [the Python documentation](https://docs.python.org/), and it has excellent facilities for the documentation of software projects in a range of languages. Of course, this site is also created from reStructuredText sources using Sphinx!
 
